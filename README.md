@@ -32,4 +32,4 @@ Welcome to the Library Management System project! This application is designed t
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/Skaif-123/CodeAlpha_Library-Mangement-System
